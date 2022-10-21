@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vintagempire
+- 👋 Hi, We're @vintagempire
 - 👀 We're interested in any kind of web and mobile of hybrid projects
 - 🌱 We're currently working on many Web and Mobile projects
 - 💞️ We're looking to collaborate on vintagempire
